@@ -16,5 +16,6 @@ Evaluation Parameters:
   <li>Normalization+Transformation</li>
   <li>Normalize+Transform+PCA</li>
 </ol>
-![WhatsApp Image 2024-02-18 at 23 37 36_ea4c72c5](https://github.com/Kanishhkka/102103772-Clustering/assets/107942421/d7a900c5-0699-4025-a153-e2e2b878801d)
+
+<img src="https://github.com/Kanishhkka/102103772-Clustering/assets/107942421/d7a900c5-0699-4025-a153-e2e2b878801d">
 
