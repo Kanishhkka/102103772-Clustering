@@ -18,4 +18,9 @@ Evaluation Parameters:
 </ol>
 
 <img src="https://github.com/Kanishhkka/102103772-Clustering/assets/107942421/d7a900c5-0699-4025-a153-e2e2b878801d">
+<h2><ul>
+  <li>Cluster 1-> n=3</li>
+  <li>Cluster 2-> n=4</li>
+  <li>Cluster 3->n=4</li>
+</ul></h2>
 
